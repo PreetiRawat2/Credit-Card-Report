@@ -26,6 +26,10 @@ Data Cleaning
 Data Visualization
 Dashboard Creation
 
+𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: This project strengthened my expertise in financial analytics, data visualization, and predictive modeling, helping businesses make informed decisions with data-driven insights.
+
+
+
 🚀 I’m actively seeking internships and full-time opportunities in Data Analysis, Business Intelligence, and Data Visualization roles. If you know of any opportunities or have advice, I’d love to connect and collaborate. Let’s make data work for impactful decisions!
 hashtag#OpenToWork hashtag#DataAnalysis hashtag#PowerBI hashtag#SQL hashtag#BusinessIntelligence hashtag#DataVisualization
 
